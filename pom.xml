@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ch.bbw</groupId>
-    <artifactId>m319-first-steps</artifactId>
+    <artifactId>m319-first-steps-spring-boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>m319-first-steps</name>
-    <description>m319-first-steps</description>
+    <name>m319-first-steps-spring-boot</name>
+    <description>m319-first-steps-spring-boot</description>
     <url/>
     <licenses>
         <license/>
